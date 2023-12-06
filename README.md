@@ -3,9 +3,10 @@
 ## Simulação do sistema solar
 ![view1](img/ppgeec.png)
 
+## Apresentação do projeto
 [Link para apresentação](https://youtu.be/993Ajt0Rfhg)
 
-Equipe: <br>
+## Equipe: <br>
 Alanna Maria Machado Alves Paiva - 421942 <br>
 Ananda Karen Barros Nobre - 421784 <br>
 Antonia Thamires Maia Mesquita - 427342 <br>
