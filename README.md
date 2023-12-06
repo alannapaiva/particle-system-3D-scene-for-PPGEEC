@@ -1,5 +1,4 @@
-# Projeto - AP 02
-# Uso da API Three JS e conceitos de Computação Gráfica para uma cena 3D de sistema de partículas para o PPGEEC
+# Projeto - AP 02 - Uso da API Three JS e conceitos de Computação Gráfica para uma cena 3D de sistema de partículas para o PPGEEC
 
 ## Simulação do sistema solar
 ![view1](img/ppgeec.png)
